@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+		<li Class="PatchOperationRemove">
+			<xpath>/Defs/ThingDef[defName = "Apparel_TribalHeaddress"]/recipeMaker/factionPrerequisiteTags</xpath>
+		</li>
+		<li Class="PatchOperationRemove">
+			<xpath>/Defs/ThingDef[defName = "Apparel_WarMask"]/recipeMaker/factionPrerequisiteTags</xpath>
+		</li>
+		<li Class="PatchOperationRemove">
+			<xpath>/Defs/ThingDef[defName = "Apparel_WarVeil"]/recipeMaker/factionPrerequisiteTags</xpath>
+		</li>
+		</operations>
+	</Operation>
+
+</Patch>
