@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Manifest>
+  <identifier>KK_ACCTG!</identifier>
+  <version>1.0.0.0</version>
+  <manifestUri>https://github.com/kaptain-kavern/KK_ACCTG/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/kaptain-kavern/KK_ACCTG/releases/latest</downloadUri>
+</Manifest>
