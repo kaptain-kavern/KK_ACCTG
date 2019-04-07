@@ -1,21 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
+  <name>KK_ACCTG!</name>
+  <author>KapTaiN_KaVerN</author>
+  <url>https://github.com/kaptain-kavern/KK_ACCTG</url>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
 
-    <name>KK_ACCTG!</name>
-
-    <author>KapTaiN_KaVerN</author>
-
-    <url>https://github.com/kaptain-kavern/KK_ACCTG</url>
-    <targetVersion>1.0.2059</targetVersion>
-    <supportedVersions>
-      <li>1.0.2059</li>
-    </supportedVersions>
-
-    <description>
+  <description>
       Anyone Can Craft Tribal Gears!
       ________________________________
 
       Make tribal gear craftable by any Factions, period!
-    </description>
-
+  </description>
 </ModMetaData>
